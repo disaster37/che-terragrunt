@@ -1,0 +1,3 @@
+{
+    "shellcheck.executablePath": "/bin/shellcheck"
+}
